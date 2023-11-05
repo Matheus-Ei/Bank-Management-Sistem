@@ -21,8 +21,8 @@ class Client {
         }
 
     private:
-        int money, age, socialClass;
-        std::string name, gender;
+        int money, age;
+        std::string name, gender, socialClass;
 };
 
 int main() {
